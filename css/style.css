@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2? family= Oswald:wght@400;500;600;700 & display=swap');
+
+body{
+
+   
+    background:#f1eeef ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #FFFFF;
+    margin-top: 100px;
+    
+
+}
+
+h1:hover{
+    color: rgba(237, 241, 177, 0.133);
+
+    font-size: 100px;
+   
+}
+
+h2{
+    font-size:35PX;
+    color:  #f1105b;
+}   
+
+a img {
+    width: 50px;
+}
+
+#codigo{
+    width :100%;
+
+}
+#algoritmos{
+    background: url(../img/Captura.JPG);
+    background-size: cover;
+    background-repeat: none ;
+    text-align: center;
+}
+
+#algoritmos h1{
+color: #f1eeef;
+font-size: 40px;
+}
+
+#algoritmos button {
+    padding: 12px 40px;
+    font-size: 20px;
+    background: transparent; 
+    color: #f1eeef;
+    border: 2px solid #f1105b ;
+    margin: 20px 10px; 
+}
